@@ -1,0 +1,18 @@
+* {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #1319ec;
+}
+
+body {
+    background-color: #333;
+  }
+
+img {
+    filter: grayscale(1);
+}
+
+iframe {
+    filter: grayscale(1);
+}
