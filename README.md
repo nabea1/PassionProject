@@ -1,6 +1,6 @@
 # Spi Project
 
-### My Passion Project of throwing Underground Music in the Chicago scene. This would be the beginning stages of my landing page.
+### My Passion Project of throwing Underground Music Eventss in the Chicago scene [Near Future]. This would be the beginning stages of my landing page.
 
 ## Resources/Links 🔗
 
