@@ -12,5 +12,6 @@
 - https://webflow.com/blog/90s-website-design (website inspirations)
 - https://fonts.google.com/specimen/VT323?query=vt323 (Font Utilized for the whole website)
 - https://www.html.am/html-codes/marquees/html-scrolling-text.cfm (scrolling Marquee text on top of the page)
+-  [Google Map] (https://maps.app.goo.gl/XShLTNjp6H8RVGfB8) From the Share Link had an HTML Code
 
   ### Latest Website Update: 07/09/2024 ☝️
